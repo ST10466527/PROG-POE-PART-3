@@ -92,7 +92,7 @@ Before running the application, ensure the following are installed:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/ST10466527/PROG-POE-PART-3-2026.git
+git clone http://github.com/ST10466527/PROG-POE-PART-3/tree/main
 ```
 
 ### 2. Open the Project
@@ -203,7 +203,7 @@ Cape Town, South Africa
 
 ## Repository Link
 
-`https://github.com/ST10466527/PROG-POE-PART-3-2026` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FST10466527%2FPROG-POE-PART-3-2026")
+`http://github.com/ST10466527/PROG-POE-PART-3/tree/main
 
 ---
 
